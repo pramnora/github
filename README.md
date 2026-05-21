@@ -30,8 +30,11 @@ Here on this page it is my intention to include links/and, resources to learning
 Main web site...  
 - https://www.github.com  
 
-- Github learn platform...  
-- https://learn.github.com
+My own Github pages...  
+- https://www.github.com/pramnora  
+
+Github learn platform...  
+- https://learn.github.com  
 
 ## YouTube Videos
 
